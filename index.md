@@ -1,26 +1,12 @@
 ## Bio
-
 ---
-### Education
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-### Work Experience
+* I am an Ocean Engineering Ph.D student in the URI Robotics in Complex Underwater Environments (R-CUE) lab. My research focuses on over-actuated control of autonomous underwater vehicles.
 
 
 ---
 ### Recent Projects
 
-
-- [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
-
----
-
-
-
+[Basic Stats](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
