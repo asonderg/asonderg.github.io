@@ -4,9 +4,9 @@
 
 
 ---
-### Recent Projects
+## Recent Projects
 
-# Model Ship Simulation - Solidworks FlowSim
+#### Model Ship Simulation - Solidworks FlowSim
 <img src="images/Capture.PNG?raw=true"/>
 
 ---
