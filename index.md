@@ -6,7 +6,7 @@
 ---
 ### Recent Projects
 
-[Basic Stats](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#Model Ship Simulation - Solidworks FlowSim
+<img src="images/Capture.PNG?raw=true"/>
 
 ---
