@@ -9,4 +9,7 @@
 #### Model Ship Simulation - Solidworks FlowSim
 <img src="images/Capture.PNG?raw=true"/>
 
+#### BasicStats module
+
+[Github repository](https://github.com/asonderg/BasicStats)
 ---
