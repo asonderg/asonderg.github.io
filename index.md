@@ -22,5 +22,5 @@
 - Future version will be able to include other water quality data: conductivity, pH, and more!
 - [Github repository](https://github.com/asonderg/Surface-Vessel-Temp-Logger)
 
-<img src="/images/IMG_4654.PNG?raw=true"/>
-<img src="/images/IMG_6314.PNG?raw=true"/>
+<img src="/images/IMG_4654.jpg?raw=true"/>
+<img src="/images/IMG_6314.jpg?raw=true"/>
