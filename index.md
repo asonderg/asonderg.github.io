@@ -13,7 +13,7 @@
 
 #### BasicStats module
 
-[Github repository](https://github.com/asonderg/BasicStats)
+- [Github repository](https://github.com/asonderg/BasicStats)
 ---
 
 #### Surface-Vessel-Based GPS Referenced Temperature Logging
