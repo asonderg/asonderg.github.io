@@ -13,3 +13,7 @@
 
 [Github repository](https://github.com/asonderg/BasicStats)
 ---
+
+#### Surface-Vessel-Based GPS Referenced Temperature Logging
+[Github repository](https://github.com/asonderg/)
+<img src="/images/IMG_2520.PNG?raw=true"/>
