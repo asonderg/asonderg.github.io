@@ -1,14 +1,14 @@
 ## Bio
 ---
-* I am an Ocean Engineering Ph.D student in the URI Robotics in Complex Underwater Environments (R-CUE) lab. My research focuses on over-actuated control of autonomous underwater vehicles.
+- I am an Ocean Engineering Ph.D student in the URI Robotics in Complex Underwater Environments (R-CUE) lab. My research focuses on over-actuated control of autonomous underwater vehicles.
 
 
 ---
 ## Recent Projects
 
 #### Model Ship Simulation - Solidworks FlowSim
--Model of a planned fast catamaran model (model will be in 1/32 scale).
--Used free surface functionality in Solidworks FlowSim.
+- Model of a planned fast catamaran model (model will be in 1/32 scale).
+- Used free surface functionality in Solidworks FlowSim.
 <img src="images/Capture.PNG?raw=true"/>
 
 #### BasicStats module
